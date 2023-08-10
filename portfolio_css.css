@@ -1,0 +1,83 @@
+body{
+    background-image: url("portback.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#parentdiv{
+    border: 10px snow inset ;
+    display:flex;
+    justify-content: space-between;
+}
+#navbar{
+    
+    background-color:aqua;
+    border:5px inset sandybrown;
+    color:chartreuse;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#navbar nav a {
+    font-weight: bold;
+}
+#navbar nav a:hover{
+    color: red;
+
+}
+#Education{
+   
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(17, 74, 74);
+    margin: 20px 30px 20px 30px;
+}
+
+table,td,th{
+    border: 3px solid rgb(5, 66, 66);
+}
+
+#skills{
+    text-align: justify;
+    margin: 20px 30px 20px 30px;
+    font-size: 20px;
+}
+
+#achievement{
+    text-align: justify;
+    margin: 20px 30px 20px 30px;
+    font-size: 20px;
+}
+
+#projects{
+    text-align: justify;
+    margin: 20px 30px 20px 30px;
+    font-size: 20px;
+    color: rgb(47, 47, 120);
+    
+}
+#pname{
+    color: rgb(55, 55, 243) ;    
+}
+
+#Internships{
+    text-align: justify;
+    margin: 20px 30px 20px 30px;
+    font-size: 20px;
+    
+}
+
+#certification{
+    text-align: justify;
+    margin: 20px 30px 20px 30px;
+    font-size: 20px;
+}
+
+
+
+/* javascript :  scripting,multiparadigms,prototype based,synchronous,interpreted
+    1995 
+    ECMA Script 5
+    breden founder
+    
+
+*/
